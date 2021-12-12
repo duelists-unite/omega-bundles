@@ -1,6 +1,5 @@
 {
-  "decks":
-  [
+  decks: [
     { Name: "Prank Kids", Code: "s+K/LjWfEYa3S79kWbfnPiMMr1e+xwDDFhuTWWA4yUmMEYZtfYKYYdjj1FUWGI6sTma5+u0aAwjbLSlknBWxjQWG81xmMa1I72WBYU+HHwwwvDDtHYtgUiEjDN+ems0Ew2t0H7Ns9dFmeXy+hCm2SYoxUnM5U/myTNYjLoqs+/k8mX4snctka8fJCMN9nR1w/LdzDisMv/klwgzCsZn3mGBY+dpcOP7NUgHHdZ3OzCB/AgA=", Tag: "Starter;TCG;July 2021;Daniel Palchik" },
     { Name: "Subterror", Code: "M+df9+UM07qaYpaLhypYYfjR2l8MMLxe+R4Yh50sYYHhx2YPWUG4/zsLHN/SjWOA4cjqZBY58yZGEF6R3ssi9iGMAYaT3hWxgLDxtTRGGBZMKgTj3ywVTDB8e2o2GF+a/YU19kQNyypBRyYQ9jmuyJp95QwLCK9drMzaIVjG/DZblLX+hyzLfj5PpiWztBli9huybPScx3pdaj4jDG+Xfsny644IY4tqHQMM9/9fAseNYuuYrTiTWWAY5HcA", Tag: "Starter;TCG;July 2021;Jeremy Ortiz" },
     { Name: "Swordsoul", Code: "s+C/LjWfEYRX9E1iheGIDG9mGF5sZMgIw9o8ccwwvF75HgMMa01NZYRhe14pJhDu/87CCsK2s2KZYdiJZwar3ZJCRhA+dLyIUcljJgMIM2k9guNGsXXMN90jGX6zVDDBsGBLF1OYLh/rt//Xme7WpDAltxxircyawBDN9I/lyBsfBoalCiwgvM9sMtN0xRTWmuiNjBM332d815vFDPLbxUMVrDC89hEXEwj/viPC2KJaxwDCILfkl71ngOFAgWZmEAbpBQA=", Tag: "Starter;OCG;Oct 2021" },
